@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FD64C7BE2A44EC0300E79E89 /* My_ShoesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD64C7BD2A44EC0300E79E89 /* My_ShoesApp.swift */; };
-		FD64C7C02A44EC0300E79E89 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD64C7BF2A44EC0300E79E89 /* ContentView.swift */; };
+		FD64C7C02A44EC0300E79E89 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD64C7BF2A44EC0300E79E89 /* MainView.swift */; };
 		FD64C7C22A44EC0400E79E89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD64C7C12A44EC0400E79E89 /* Assets.xcassets */; };
 		FD64C7C52A44EC0400E79E89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD64C7C42A44EC0400E79E89 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		FD64C7BA2A44EC0300E79E89 /* My Shoes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Shoes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD64C7BD2A44EC0300E79E89 /* My_ShoesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_ShoesApp.swift; sourceTree = "<group>"; };
-		FD64C7BF2A44EC0300E79E89 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FD64C7BF2A44EC0300E79E89 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		FD64C7C12A44EC0400E79E89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD64C7C42A44EC0400E79E89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				FD64C7BD2A44EC0300E79E89 /* My_ShoesApp.swift */,
-				FD64C7BF2A44EC0300E79E89 /* ContentView.swift */,
+				FD64C7BF2A44EC0300E79E89 /* MainView.swift */,
 				FD64C7C12A44EC0400E79E89 /* Assets.xcassets */,
 				FD64C7C32A44EC0400E79E89 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD64C7C02A44EC0300E79E89 /* ContentView.swift in Sources */,
+				FD64C7C02A44EC0300E79E89 /* MainView.swift in Sources */,
 				FD64C7BE2A44EC0300E79E89 /* My_ShoesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
